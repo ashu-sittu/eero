@@ -12,11 +12,7 @@ How to Login Eero Router? A Complete Guide
    :align: center
    :target: https://aclogportal.com/
 
-How to Login eero Router
-==========================
 
-Description:
--------------
 This guide will walk you through the process of logging into your eero router, enabling you to access its settings and make any necessary adjustments for optimal network performance. Whether you're troubleshooting network issues, modifying settings, or simply checking on the performance of your eero router, this article will provide you with all the steps you need to succeed.
 
 Prerequisites:
